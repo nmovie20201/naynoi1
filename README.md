@@ -2,7 +2,6 @@
 <head>
     <meta charset="UTF-8">
     <link rel="shortcut icon" href="/icon.jpg" type="image/x-icon">
-  	<title>webtest</title>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta name="description" content="ไม่จำเป็นต้องกดเข้าลิงค์">
     <meta name="author" content="streaming-fast.com">
